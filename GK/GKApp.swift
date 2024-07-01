@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct GKApp: App {
+    let services = Services.shared
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UpcomingDrawsView()
+                .environmentObject(services)
+                .preferredColorScheme(.dark)
         }
     }
 }

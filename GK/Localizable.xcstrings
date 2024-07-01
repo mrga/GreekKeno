@@ -1,0 +1,161 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "%@h" : {
+
+    },
+    "%lld" : {
+
+    },
+    "|" : {
+
+    },
+    "Bet remaining time:" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preostalo vreme za uplatu"
+          }
+        }
+      }
+    },
+    "Draw time:" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vreme izvlačenja"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Greška"
+          }
+        }
+      }
+    },
+    "Greek keno (20/80)" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grčki kino (20/80)"
+          }
+        }
+      }
+    },
+    "Invalid request, please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neispravan zahtjev, pokušajte ponovo."
+          }
+        }
+      }
+    },
+    "Live Draw" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Izvlačenje uživo"
+          }
+        }
+      }
+    },
+    "No data received." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nema primljenih podataka."
+          }
+        }
+      }
+    },
+    "No. of selected numbers:" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Broj izabranih kuglica"
+          }
+        }
+      }
+    },
+    "Odds" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kvote"
+          }
+        }
+      }
+    },
+    "ok" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        }
+      }
+    },
+    "Results" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rezultati"
+          }
+        }
+      }
+    },
+    "Round:" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kolo:"
+          }
+        }
+      }
+    },
+    "Talon" : {
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Talon"
+          }
+        }
+      }
+    },
+    "Unable to parse response from server, please try again." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "sr-Latn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nije moguće analizirati odgovor sa servera, pokušajte ponovo."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
